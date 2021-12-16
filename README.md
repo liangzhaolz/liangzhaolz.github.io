@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+### About me
 
-You can use the [editor on GitHub](https://github.com/liangzhao1030/liangzhao1030.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![Image]()
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a current PhD student at the Department of Language and Linguistic Science, University of York (2019-). I currently work on production and perception of lexical tones of Mandarin dialects, with a particular interest in the perceptual processing of familiar and unfamiliar tone systems.  My general research areas include phonetics, phonology, speech perception, tone perception.  
 
-### Markdown
+Before coming to York, I received MA in Linguistics from UCL with Distinction (2017) and worked as a curriculum analyst in Offcn Education & Technology based in Beijing, China (2018).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I pronounce my name as  [liɑŋ˥˩  tʂɑʊ̯˥˩].
 
-```markdown
-Syntax highlighted code block
+### Contact information
 
-# Header 1
-## Header 2
-### Header 3
+Email: lz1136@york.ac.uk / liang.zhao@york.ac.uk
 
-- Bulleted
-- List
+Twitter: [liangzhaolz](https://twitter.com/liangzhaolz)
 
-1. Numbered
-2. List
+### News
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liangzhao1030/liangzhao1030.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
