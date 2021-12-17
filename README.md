@@ -1,7 +1,4 @@
----
-title: "Liang Zhao"
-layout: "default"
----
+# Liang Zhao
 
 ### About me
 
