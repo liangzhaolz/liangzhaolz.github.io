@@ -1,5 +1,0 @@
-# Presentations & Publications
-
-### Presentations
-
-### Publications
