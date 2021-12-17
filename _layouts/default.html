@@ -18,16 +18,14 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a link/liangzhaolz.github.io/README.md/ class="btn">About</a>
+      
+        <a href="README.md" class="btn">About</a>
         <a href="{{ site.github.repository_url }}" class="btn">About me</a>
         <a href="{{ site.github.repository_url }}" class="btn">Presentations & Publicatioins</a>
         <a href="{{ site.github.repository_url }}" class="btn">Teaching</a>
         <a href="{{ site.github.repository_url }}" class="btn">Experiments</a>
-      {% endif %}
-      {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">CV</a>
-      {% endif %}
+     
     </header>
 
     <main id="content" class="main-content" role="main">
