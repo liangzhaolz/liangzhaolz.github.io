@@ -1,5 +1,4 @@
 ## Liang Zhao
-
 ### [liɑŋ˥˩  tʂɑʊ̯˥˩]
 
 ![Image](mypic.jpg)
@@ -10,7 +9,7 @@ Before coming to York, I received MA in Linguistics from UCL with Distinction (2
 
 ## Contact information
 
-Email: lz1136@york.ac.uk | liang.zhao@york.ac.uk
+Email: lz1136@york.ac.uk / liang.zhao@york.ac.uk
 
 Twitter@[liangzhaolz](https://twitter.com/liangzhaolz)
 
