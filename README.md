@@ -1,4 +1,6 @@
-# Liang Zhao
+---
+title: "Liang Zhao"
+---
 
 ### About me
 
