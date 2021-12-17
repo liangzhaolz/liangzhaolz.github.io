@@ -1,5 +1,6 @@
 ---
-layout: default
+title: "Liang Zhao"
+layout: "default"
 ---
 
 ### About me
