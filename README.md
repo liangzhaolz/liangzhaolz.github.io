@@ -1,4 +1,4 @@
-# Liang Zhao
+## Liang Zhao
 
 ### [liɑŋ˥˩  tʂɑʊ̯˥˩]
 
@@ -8,11 +8,11 @@ I am a current PhD student at the Department of Language and Linguistic Science,
 
 Before coming to York, I received MA in Linguistics from UCL with Distinction (2017) and worked as a curriculum analyst in Offcn Education & Technology based in Beijing, China (2018).
 
-### Contact information
+## Contact information
 
-![alt-text](mail_icon.gif) lz1136@york.ac.uk / liang.zhao@york.ac.uk
+Email: lz1136@york.ac.uk | liang.zhao@york.ac.uk
 
-![alt-text](twitter_icon.gif)  [liangzhaolz](https://twitter.com/liangzhaolz)
+Twitter@[liangzhaolz](https://twitter.com/liangzhaolz)
 
 
 
