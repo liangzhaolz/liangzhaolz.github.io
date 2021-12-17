@@ -2,7 +2,7 @@
 
 ### About me
 
-![Image](WechatIMG1.jpeg)
+![Image](mypic.jpeg)
 
 I am a current PhD student at the Department of Language and Linguistic Science, University of York (2019-). I currently work on production and perception of lexical tones of Mandarin dialects, with a particular interest in the perceptual processing of familiar and unfamiliar tone systems.  My general research areas include phonetics, phonology, speech perception, tone perception.  
 
