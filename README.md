@@ -7,6 +7,8 @@ I am a current PhD student at the Department of Language and Linguistic Science,
 
 Before coming to York, I received MA in Linguistics from UCL with Distinction (2017) and worked as a curriculum analyst in Offcn Education & Technology based in Beijing, China (2018).
 
+Outside of work, I enjoy cooking, especially various types of noodles, typically found as homemade staple food in North China. I also play the piano for relaxation and fun. I am recently trying to practice some notes of recomposed classic music. This is just one humble practice [clip](https://video.weibo.com/show?fid=1034:4660529843863560) recorded in the summer (will denitifely practice more!) and the notes were recomposed from Chopin's Waltz No.7 in C Sharp Minor (Op.64-2) in Jay Chou's movie *Secret*. 
+
 ## Contact information
 
 Email: lz1136@york.ac.uk / liang.zhao@york.ac.uk
