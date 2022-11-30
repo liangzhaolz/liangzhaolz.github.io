@@ -1,9 +1,9 @@
 ## Liang Zhao
 ### [liɑŋ˥˩  tʂɑʊ̯˥˩]
 
-![image](mypic.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;"}
+![image](mypic.jpg){:style="float: left; margin-left: 7px; margin-top: 7px;"}
 
-I am a PhD student at the Department of Language and Linguistic Science, University of York (2019-). I work on production and perception of lexical tones of Mandarin dialects, with a particular interest in the perceptual processing of familiar and unfamiliar tone systems.  My general research areas include phonetics, phonology, speech perception, tone perception.  
+Hi, I am a PhD student at the Department of Language and Linguistic Science, University of York (2019-). I work on production and perception of lexical tones of Mandarin dialects, with a particular interest in the perceptual processing of familiar and unfamiliar tone systems.  My general research areas include phonetics, phonology, speech perception, tone perception.  
 
 Before coming to York, I received MA in Linguistics from UCL with Distinction (2017) and worked as a curriculum analyst in Offcn Education & Technology based in Beijing, China (2018).
 
