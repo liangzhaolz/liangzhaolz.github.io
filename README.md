@@ -3,17 +3,19 @@
 
 ![image](mypic.jpg)
 
-Hi, I am a PhD student at the Department of Language and Linguistic Science, University of York (2019-). I work on production and perception of lexical tones of Mandarin dialects, with a particular interest in the perceptual processing of familiar and unfamiliar tone systems.  My general research areas include phonetics, phonology, speech perception, tone perception.  
+Hi, I am a PhD student at the Department of Language and Linguistic Science, University of York (2019-2023). I work on production and perception of lexical tone variation in Mandarin dialects, with a particular interest in the perceptual mechanisms and factors involved in processing familiar and unfamiliar lexical tones. My general research areas include speech perception, tone perception, corpus phonetics and phonology.  
 
 Before coming to York, I received MA in Linguistics from UCL with Distinction (2017) and worked as a curriculum analyst in Offcn Education & Technology based in Beijing, China (2018).
 
-Outside of work, I enjoy cooking, especially various types of noodles. I also play the piano for relaxation and fun. I am recently trying to practice some notes of recomposed classic music. 
+Outside of work, I am a fan of science fiction and enjoy cooking. I also play the piano for relaxation and fun.
 
 ## Contact information
 
-Email: lz1136@york.ac.uk / liang.zhao@york.ac.uk
+Email: liang.zhao@york.ac.uk (York); liang.zhao.lz@outlook.com (personal)
 
 Twitter@[liangzhaolz](https://twitter.com/liangzhaolz)
+
+ResearchGate: https://www.researchgate.net/profile/Liang-Zhao-99
 
 
 
