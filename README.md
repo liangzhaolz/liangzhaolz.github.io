@@ -1,20 +1,15 @@
-## Liang Zhao
-
-[liɑŋ˥˩ tʂɑʊ̯˥˩] 赵靓
-
+**About me**
 <div id="container">
-<img src="mypic_circle copy.jpg"  align="right"/>
-<text> Hi, I am a PhD student at the Department of Language and Linguistic Science, University of York (2019-2023). I work on production and perception of lexical tone variation in Mandarin dialects, with a particular interest in the perceptual mechanisms and factors involved in processing familiar and unfamiliar lexical tones. My general research areas include speech perception, tone perception, corpus phonetics and phonology.
- 
-Before coming to York, I received MA in Linguistics from UCL with Distinction (2017) and worked as a curriculum analyst in Offcn Education & Technology based in Beijing, China (2018).
-
-Outside of work, I am a fan of science fiction and enjoy cooking. I also play the piano for relaxation and fun.</text>
-</div>
-    
+ <img src="mypic_circle copy.jpg"  align="right"/>
+ <text> Hi, I was previously a PhD student in the Department of Language and Linguistic Science at the University of York (2019-2024). I will start a Lecturer position this September at Beijing Foreign Studies University (BFSU). My PhD project looked into the production and perception of lexical tone variation across Mandarin dialects, with a particular focus on the perceptual mechanisms and potential factors involved in processing familiar and unfamilair lexical tones. I am generally interested in corpus phonetics, speech prosody, and tone production and percpetion. I have been collecting speech data from more dialects of the Mandarin language. I hope to start a BFSU-funded project, looking into the speech of elderly adults and hearing loss (still brainstorming and seeking collaboration :D).
   
-## Contact information
+  My name can be pronounced as [liɑŋ˥˩ tʂɑʊ̯˥˩]; the Chinese version is 赵靓.
+</text>
+</div>
 
-Email: liang.zhao@york.ac.uk (York); liang.zhao.lz@outlook.com (personal)
+## Contact info
+
+Email: liang.zhao.lz@outlook.com (personal); [to be updated] (BFSU); liang.zhao@york.ac.uk (York, valid until 1 Aug 2024)
 
 Twitter @[liangzhaolz](https://twitter.com/liangzhaolz)
 
