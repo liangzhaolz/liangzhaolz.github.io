@@ -5,6 +5,9 @@
 .page-header {
   background-image: url(https://liangzhaolz.github.io/assets/images/header.jpg);
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: contain;
 	height: 0.5em;
+	display: inline-block;
+	padding-right: 0.5em;
+	vertical-align: middle;
 }
